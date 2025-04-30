@@ -1,0 +1,23 @@
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Maven wrapper JAR
+.mvn/wrapper/maven-wrapper.jar
+
+# Optional: exclude environment-specific properties
+application-dev.properties
