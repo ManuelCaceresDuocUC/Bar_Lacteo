@@ -42,4 +42,5 @@ public class OrdenCompraController {
     public void eliminar(@PathVariable Long id) {
         service.eliminar(id);
     }
+    
 }
